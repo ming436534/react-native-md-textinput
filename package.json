@@ -14,6 +14,9 @@
     "material",
     "design"
   ],
+  "peerDependencies": {
+    "prop-types": "^15.6.0"
+  },
   "bugs": {
     "url": "https://github.com/evblurbs/react-native-md-textinput/issues"
   },
